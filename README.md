@@ -25,8 +25,8 @@ This repo includes the following files:
 
 Notes: 
 ======
-- Features are normalized and bounded within [-1,1].
-- Each feature vector is a row on the text file.
+- Mean Features are normalized and bounded within [-1,1].
+
 
 For more information about the original dataset contact: activityrecognition@smartlab.ws
 For more information on the procedure of getting and cleaning the data: juanjaramillo855@gmail.com
